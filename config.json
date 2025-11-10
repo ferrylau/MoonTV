@@ -96,10 +96,5 @@
       "type": "movie",
       "query": "科幻"
     },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    }    
   ],
 }
