@@ -88,7 +88,7 @@
     "mtzy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
-    },    
+    }
   },
   "custom_category": [
     {
@@ -96,5 +96,10 @@
       "type": "movie",
       "query": "科幻"
     },
-  ],
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
+    }    
+  ]
 }
